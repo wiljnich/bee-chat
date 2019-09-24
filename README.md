@@ -1,2 +1,6 @@
-# bee-chat
- Surreal web chat with Barry B. Benson et. al.
+ShinyChat
+=========
+
+Live demo [here](http://spark.rstudio.com/trestletech/ShinyChat/).
+
+Chat client built in Shiny.
