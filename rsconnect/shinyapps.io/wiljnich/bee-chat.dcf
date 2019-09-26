@@ -1,0 +1,12 @@
+name: bee-chat
+title: bee-chat
+username:
+account: wiljnich
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1243389
+bundleId: 2447638
+url: https://wiljnich.shinyapps.io/bee-chat/
+when: 1569513550.44843
+asMultiple: FALSE
+asStatic: FALSE

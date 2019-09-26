@@ -6,13 +6,13 @@
 }
 
 .user-change, .user-exit, .user-enter {
-  color: #aaa;
+  color: #000;
   font-size: .8em;
 }
 
 .username {
   font-weight: bold;
-  color: #226;
+  color: #000;
 }
 
 #entry {
@@ -24,17 +24,39 @@
   padding-top: 3px;
 }
 
-#play-nice {
-  color: #AAA;
-  text-align: right;
-  padding: 30px 0;
+.column1 {
+  float: left;
+  width: 10%;
+  padding: .5em;
+}
+.column2 {
+  float: left;
+  width: 90%;
+  padding: .5em;
 }
 
 html, body {
     height: 100%;
+      background-color: #FFB101;
 }
 
 .fill { 
     min-height: 100%;
     height: 100%;
 }
+
+.span2 {
+  width: 100%;
+}
+
+.span10 {
+  width: 100%;
+}
+
+#sidebar {
+  background-color: #020100;
+  color: #FFB101;
+  border-color: #999;
+}
+
+
