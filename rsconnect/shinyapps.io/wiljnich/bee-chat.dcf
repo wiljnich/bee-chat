@@ -5,8 +5,8 @@ account: wiljnich
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 1243389
-bundleId: 2447638
+bundleId: 2455663
 url: https://wiljnich.shinyapps.io/bee-chat/
-when: 1569513550.44843
+when: 1569855307.1608
 asMultiple: FALSE
 asStatic: FALSE
